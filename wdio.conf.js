@@ -136,12 +136,12 @@ exports.config = {
     //     disableWebdriverStepsReporting: true,
     //     disableWebdriverScreenshotsReporting: true,
     // }]],
-    reporters: [
-        'dot',
-        ['junit', {
-            outputDir: './'
-        }]
-    ],
+//     reporters: [
+//         'dot',
+//         ['junit', {
+//             outputDir: './'
+//         }]
+//     ],
 
 
     
